@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-template"]=this["webpackJsonpgoit-react-hw-template"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);c(4);var n=c(1),r=c.n(n),i=c(3),o=c.n(i),s=c(0);function a(){return Object(s.jsx)("div",{children:Object(s.jsx)("h1",{children:"Hello React"})})}o.a.render(Object(s.jsx)(r.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.querySelector("#root"))},4:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.c4658269.chunk.js.map
